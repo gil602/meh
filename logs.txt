@@ -1,0 +1,41 @@
+commit 9eb92e3d4446a8c8380c494a8bab67ea1c61d0ce
+Author: GM ANTONIO <titanvago43@gmail.com>
+Date:   Tue Jul 4 11:38:51 2017 -0600
+
+    Integracion de bootstrap
+
+commit b1e960a465acd6a7ef2be4e2cd3768b3472e97c5
+Author: GM ANTONIO <titanvago43@gmail.com>
+Date:   Tue Jul 4 11:26:55 2017 -0600
+
+    corrigieron errores
+
+commit ffa28f0ab409c6efc326b2e1a4ff788a7f430e3a
+Author: GM ANTONIO <titanvago43@gmail.com>
+Date:   Tue Jul 4 11:25:59 2017 -0600
+
+    Se alineo el footer y se cambio la descripcion
+
+commit 3cab5c9574176c78be6cbe6fa2888d1086365f56
+Author: GM ANTONIO <titanvago43@gmail.com>
+Date:   Tue Jul 4 11:22:52 2017 -0600
+
+    Se agrego descripcion la footer
+
+commit 8d069dd1e9fc62873bae822476c7fddfdb2ae8e9
+Author: GM ANTONIO <titanvago43@gmail.com>
+Date:   Tue Jul 4 11:21:57 2017 -0600
+
+    Se agrego footer
+
+commit 2baed87f3bbd323229eb7462794789fe159196cd
+Author: GM ANTONIO <titanvago43@gmail.com>
+Date:   Tue Jul 4 11:20:41 2017 -0600
+
+    Se agrego imagen y descripcion
+
+commit 67440bd5aabba4f43934e1405534d87c3d60dd36
+Author: GM ANTONIO <titanvago43@gmail.com>
+Date:   Tue Jul 4 11:08:22 2017 -0600
+
+    Estructura inicial del proyecto
